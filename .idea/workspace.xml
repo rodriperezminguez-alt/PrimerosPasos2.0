@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e187c60-9346-4495-b9bf-c760f2a23289" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ejercicio16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio35.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/home/rodpermin/IdeaProjects/PrimerosPasos2.0" value="3Lg7kQGHXtYXz02VOa2e2It6pdt" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="3.4316317312929146E-71" />
+      <entry key="S2" value="2.4203332592350714E-18" />
+      <entry key="S5" value="8.985661775062789E-8" />
+      <entry key="S10" value="2.9976098918484866E-4" />
+      <entry key="S30" value="0.06730546775091939" />
+      <entry key="S60" value="0.2781922628067522" />
+      <entry key="M2" value="0.6486532821061122" />
+      <entry key="M5" value="1.3325364213684752" />
+      <entry key="M10" value="2.36026405886417" />
+      <entry key="M15" value="3.2578982334651028" />
+      <entry key="M30" value="4.900452806678326" />
+      <entry key="H1" value="6.202083584691039" />
+      <entry key="H2" value="7.028070526106366" />
+      <entry key="H4" value="7.494211185617456" />
+      <entry key="D1" value="7.912802939259715" />
+      <entry key="W1" value="7.987470302771995" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000000002" />
+      <entry key="S2" value="1.0001148869056284" />
+      <entry key="S5" value="1.0266731229756938" />
+      <entry key="S10" value="1.1742763150916424" />
+      <entry key="S30" value="1.843996383472532" />
+      <entry key="S60" value="2.6015180194289518" />
+      <entry key="M2" value="3.9113973430241655" />
+      <entry key="M5" value="7.155730170430568" />
+      <entry key="M10" value="10.852726090760257" />
+      <entry key="M15" value="13.384916325800418" />
+      <entry key="M30" value="17.559702055392275" />
+      <entry key="H1" value="20.714899629012667" />
+      <entry key="H2" value="22.689349099681962" />
+      <entry key="H4" value="23.79868836106313" />
+      <entry key="D1" value="24.793025516330356" />
+      <entry key="W1" value="24.970261717886213" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="7.566575317010409E-5" />
+      <entry key="MS500" value="0.14989248922388915" />
+      <entry key="S2" value="0.6223071851357447" />
+      <entry key="S5" value="0.8508621485596867" />
+      <entry key="S10" value="1.0739517295756213" />
+      <entry key="S30" value="1.8623213889082966" />
+      <entry key="S60" value="2.846234588516382" />
+      <entry key="M2" value="4.534611635073962" />
+      <entry key="M5" value="8.466981799353732" />
+      <entry key="M10" value="13.193105349986661" />
+      <entry key="M15" value="16.62441420414392" />
+      <entry key="M30" value="22.44629436136843" />
+      <entry key="H1" value="26.908196767464563" />
+      <entry key="H2" value="29.7124331356966" />
+      <entry key="H4" value="31.29023807617762" />
+      <entry key="D1" value="32.705359612924845" />
+      <entry key="W1" value="32.957664398096846" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3Lg52WdUabEl5pBXLVfCCBJQdJj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ejercicio11.executor": "Run",
+    "Application.ejercicio14.executor": "Run",
+    "Application.ejercicio15.executor": "Run",
+    "Application.ejercicio16.executor": "Run",
+    "Application.ejercicio17.executor": "Run",
+    "Application.ejercicio18.executor": "Run",
+    "Application.ejercicio27.executor": "Run",
+    "Application.ejercicio28.executor": "Run",
+    "Application.ejercicio31.executor": "Run",
+    "Application.ejercicio34.executor": "Run",
+    "Application.ejercicio35.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/out" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e187c60-9346-4495-b9bf-c760f2a23289" name="Changes" comment="" />
+      <created>1793862664043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793862664043</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
