@@ -93,6 +93,9 @@
       <entry key="W1" value="45.94389323913143" />
     </decayedShown>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3,
   "fromUser": false
